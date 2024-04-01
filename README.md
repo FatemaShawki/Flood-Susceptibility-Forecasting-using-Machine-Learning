@@ -10,3 +10,7 @@ The adopted floods dataset is an extensive collection of data containing informa
 
 # Dataset link
 https://www.kaggle.com/datasets/brijlaldhankour/flood-prediction-factors
+
+# Contributors
+- Mostafa Ayman Bahaa
+- Fatema Ahmed Shawki
